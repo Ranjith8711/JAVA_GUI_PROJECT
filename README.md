@@ -28,7 +28,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 13. SpeedDistanceTimeCalculator GUI In Java
 14. StudentInfoSystem GUI In Java
 15. Advanced To Do List GUI In Java
-16. NotepadApp GUI In Java
+16. AdvanceNotepadApp GUI In Java
 17. ImageViewer GUI In Java
 18. MultiToolApp GIU In Java
 19. FileExplorerPro GUI In Java
