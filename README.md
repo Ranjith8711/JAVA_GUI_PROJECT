@@ -37,7 +37,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 20. StudentGradeCalculator GUI In Java
 21. Brick Breaker Game GUI In Java
 22. Number Guessing Game GUI In Java
-23. 
+23. TypingSpeedTesterAdvanced 
   
       
   
