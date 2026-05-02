@@ -40,7 +40,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 21. Brick Breaker Game GUI In Java
 22. Number Guessing Game GUI In Java
 23. TypingSpeedTesterAdvanced GUI In Java
-24. 
+24. PalindromeCheckerGUI In Java
   
       
   
